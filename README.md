@@ -1,4 +1,5 @@
-### Hi there 👋
+
+### Seja bem vindo ao meu perfil do git 🎆🎈
 <img align="right" alt="Computer-pixel-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/910966802664816713/910967219582795816/dbo9hr9-d1c0ac4a-669b-4ff3-b44b-6573079f1867.gif">
 <div alling="center">
   <a href="https://github.com/Fer-nam">
